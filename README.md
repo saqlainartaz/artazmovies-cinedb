@@ -1,4 +1,4 @@
-# ArtazMovies
+# CineDB
 
 A movie discovery and watchlist application built with Laravel 12, powered by the [TMDB API](https://www.themoviedb.org/documentation/api). Users can browse popular movies, view details, and save movies to a personal watchlist.
 
@@ -30,7 +30,7 @@ A movie discovery and watchlist application built with Laravel 12, powered by th
 ### 1. Clone the repository
 
 ```bash
-cd artazmovies
+cd cineDB
 ```
 
 ### 2. Install dependencies
